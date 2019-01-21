@@ -4,7 +4,8 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "deploy": "gridsome build && aws s3 sync dist s3://portfolio.seike460.com && aws cloudfront create-invalidation --distribution-id ESLGOZIM3CTXH --paths '/*'"
   },
   "dependencies": {
     "@gridsome/source-filesystem": "^0.2.0",

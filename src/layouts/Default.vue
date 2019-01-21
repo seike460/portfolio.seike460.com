@@ -1,5 +1,14 @@
 <template>
   <div class="layout">
+    <header class="header">
+      <strong>
+        <h1>portfolio.seike460.com</h1>
+      </strong>
+      <nav class="nav">
+        <a class="nav__link" href="https://slide.seike460.com/#/" target="_blank">slide</a>
+        <a class="nav__link" href="https://blog.seike460.com/" target="_blank">Blog</a>
+      </nav>
+    </header>
     <slot/>
   </div>
 </template>
