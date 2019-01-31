@@ -25,6 +25,7 @@
     - [君の選択は正しいのか？](https://speakerdeck.com/seike460/jun-falsexuan-ze-hazheng-siifalseka)
 
 - その他登壇資料一覧
+    - [静的サイトジェネレーターで始める アウトプット駆動開発](https://slide.seike460.com/slides/v_fukuoka2#/)
     - [PHPアプリケーションにおけるパフォーマンスチューニング](https://slide.seike460.com/slides/pronama55#/)
     - [AWS Lambda Goのgoroutine周り](https://slide.seike460.com/slides/fukuokago12#/)
     - [Elixirで作るWEBアプリ](https://slide.seike460.com/slides/remosta2#/)
